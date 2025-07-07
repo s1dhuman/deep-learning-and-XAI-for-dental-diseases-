@@ -65,7 +65,7 @@ pip install tensorflow numpy matplotlib scikit-learn opencv-python jupyter
 
 2. **Run Notebook**  
    ```bash  
-   jupyter notebook dental_diagnosis.ipynb  
+   jupyter notebook model.ipynb  
    ```
    - **Training**: Uses GPU (recommended) with mixed precision  
    - **Evaluation**: Generates Grad-CAM visualizations automatically  
