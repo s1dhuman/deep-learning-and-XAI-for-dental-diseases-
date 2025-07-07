@@ -1,4 +1,6 @@
 # 🦷 **Deep Learning & Explainable AI for Dental Disease Detection** 🦷  
+
+Rsearch Project as the part of B Tech Project (BTP)
 *Automated diagnosis of 6 common dental conditions using lightweight AI*  
 
 ## 🚀 **Project Overview**  
@@ -30,7 +32,7 @@ We developed a **MobileNetV2-based architecture** to detect dental diseases from
 | **Metric**         | **Value**       |  
 |---------------------|-----------------|  
 | Total Images        | 34,410          |  
-| Classes             | 6 (Caries, Calculus, etc.) |  
+| Classes             | 6 (Caries, Calculus, Tooth Discoloration, Gingivitis, Ulcers, Hypodontia) |  
 | Augmentation        | Flips, Rotations, Brightness |  
 | Image Resolution    | 640x640 pixels  |  
 
@@ -59,7 +61,7 @@ pip install tensorflow numpy matplotlib scikit-learn opencv-python jupyter
 
 ### **Steps**  
 1. **Download Dataset**  
-   - Clone repo and unzip dataset into `/data` folder  
+   - Clone repo and unzip dataset into `/data` folder    ---> will upload dataset soon
 
 2. **Run Notebook**  
    ```bash  
