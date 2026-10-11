@@ -70,5 +70,3 @@ pip install tensorflow numpy matplotlib scikit-learn opencv-python jupyter
    - **Training**: Uses GPU (recommended) with mixed precision  
    - **Evaluation**: Generates Grad-CAM visualizations automatically  
 
-## 📬 **Contact**  
-- **Team**: Jaya Sidhu Seelam, Eben Aby Eapen, Aditya Kabra, Dr. Gaurav Singal (NSUT, India)
